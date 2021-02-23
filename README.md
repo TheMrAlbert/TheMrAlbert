@@ -1,6 +1,7 @@
 ### The
 ![](https://media.discordapp.net/attachments/391072390999834626/763388826138705950/T_H_E.gif)
 
+Help, I don't know how to use this well.
 
 <!--
 **TheMrAlbert/TheMrAlbert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
