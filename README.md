@@ -1,4 +1,6 @@
-### TheMrAlbert
+### Hello there!
+
+I am TheMrAlbert and I am looking forward to contribute where I can!
 <!--
 **TheMrAlbert/TheMrAlbert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
